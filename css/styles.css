@@ -45,7 +45,7 @@ main {
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 3.75em;
+	font-size: 2.75em;
 	font-weight: 600;
 }
 
@@ -62,7 +62,18 @@ main > .tagline {
 .icons-social a {
   text-decoration: none;
 }
+.icons-social :hover{
+	transition: 1s;
+	color: rgb(7, 185, 244);
+}
 
+img{
+	border-radius: 10%;
+	height: 250px; 
+	width: 250px;
+	object-fit: cover;
+	margin: ;
+ }
 .devto {
 	margin-bottom: -0.20rem;
 }
