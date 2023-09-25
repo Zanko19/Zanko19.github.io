@@ -69,8 +69,8 @@ main > .tagline {
 
 img{
 	border-radius: 10%;
-	height: 250px; 
-	width: 250px;
+	height: 150px; 
+	width: 150px;
 	object-fit: cover;
  }
 .devto {
